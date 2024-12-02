@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Palworld_UITest",
+			"Path": "..\\Source\\Palworld_UITest.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "Palworld_UITestEditor",
+			"Path": "..\\Source\\Palworld_UITestEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
