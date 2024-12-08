@@ -67,7 +67,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{1E70F6C9-C3F2-3E0C-8C17-3D44926D64DC}</ProjectGuid>
+    <ProjectGuid>{705986D5-68FA-3047-9EA7-1A2FB9D518B5}</ProjectGuid>
     <RootNamespace>Palworld_UITest</RootNamespace>
   </PropertyGroup>
   <Import Project="UECommon.props" />
